@@ -106,4 +106,4 @@ if st.button('🔮 Predict Cost'):
     """)
 
 # Optional footer
-st.sidebar.markdown("Developed by [Your Name] | © 2024")
+st.sidebar.markdown("Developed by MANISH KUMAR | © 2024")
