@@ -105,5 +105,3 @@ if st.button('🔮 Predict Cost'):
     Use this information to understand how age and other factors can influence insurance premiums.
     """)
 
-# Optional footer
-st.sidebar.markdown("Developed by MANISH KUMAR | © 2024")
