@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 For any inquiries, contact:
-📧 Email: your-manishprajapati.cs1@gmail.com  
+📧 Email: manishprajapati.cs1@gmail.com  
 🔗 GitHub: Manish Kumar(https://github.com/ManishKumarCs)  
 💼 LinkedIn: Manish Kumar(https://www.linkedin.com/in/manishkumarcs1)
 
